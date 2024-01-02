@@ -1,7 +1,6 @@
 # Machine-Learning-Method-Prediction-and-Generation-for-Creep-Rupture-Time
-The repository includes three parts: 
-
-data: available upon request; 
+Code and data (available upon request) accompanying the manuscript titled "Machine learning-based prediction and generation model for creep rupture time of Nickel-based alloys", 
+The repository includes two parts: 
 
 generation model: 
 utils.py;
