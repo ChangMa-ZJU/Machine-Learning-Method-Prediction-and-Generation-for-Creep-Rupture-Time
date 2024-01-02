@@ -1,7 +1,7 @@
 # Machine-Learning-Method-Prediction-and-Generation-for-Creep-Rupture-Time
 The repository includes three parts: 
 
-data: data_raw.xlsx; 
+data: available upon request; 
 
 generation model: 
 utils.py;
